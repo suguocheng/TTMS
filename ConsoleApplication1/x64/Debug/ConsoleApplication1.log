@@ -1,0 +1,194 @@
+﻿  Sale_Persist.c
+D:\TTMS\src\Persistence\Sale_Persist.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\TTMS\src\Service\Sale.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Ticket.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(12,1): error C2059: 语法错误:“<class-head>”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(25,2): error C2061: 语法错误: 标识符“sale_t”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(28,1): error C2059: 语法错误:“}”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,36): error C2059: 语法错误:“)”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,35): error C2059: 语法错误:“)”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2081: “sale_t”: 形参表中的名称非法
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,57): error C2059: 语法错误:“)”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2146: 语法错误: 缺少“)”(在标识符“list”的前面)
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2061: 语法错误: 标识符“list”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2059: 语法错误:“;”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,40): error C2059: 语法错误:“,”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,51): error C2059: 语法错误:“)”
+  (编译源文件“../src/Persistence/Sale_Persist.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.c(12,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\TTMS\src\Persistence\Sale_Persist.c(12,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\TTMS\src\Persistence\Sale_Persist.c(12,35): error C2059: 语法错误:“)”
+D:\TTMS\src\Persistence\Sale_Persist.c(13,1): error C2054: 在“data”之后应输入“(”
+D:\TTMS\src\Persistence\Sale_Persist.c(36,14): error C2061: 语法错误: 标识符“newNode”
+D:\TTMS\src\Persistence\Sale_Persist.c(36,14): error C2059: 语法错误:“;”
+D:\TTMS\src\Persistence\Sale_Persist.c(37,9): error C2061: 语法错误: 标识符“data”
+D:\TTMS\src\Persistence\Sale_Persist.c(37,9): error C2059: 语法错误:“;”
+D:\TTMS\src\Persistence\Sale_Persist.c(41,2): error C2059: 语法错误:“<parameter-list>”
+D:\TTMS\src\Persistence\Sale_Persist.c(43,2): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\TTMS\src\Persistence\Sale_Persist.c(43,2): error C2059: 语法错误:“}”
+D:\TTMS\src\Persistence\Sale_Persist.c(43,2): error C2059: 语法错误:“)”
+D:\TTMS\src\Persistence\Sale_Persist.c(45,8): error C2099: 初始值设定项不是常量
+D:\TTMS\src\Persistence\Sale_Persist.c(46,2): error C2059: 语法错误:“if”
+D:\TTMS\src\Persistence\Sale_Persist.c(48,2): error C2059: 语法错误:“while”
+D:\TTMS\src\Persistence\Sale_Persist.c(69,2): warning C4273: “fclose”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(152,26):
+  参见“fclose”的前一个定义
+  
+D:\TTMS\src\Persistence\Sale_Persist.c(71,2): error C2059: 语法错误:“return”
+D:\TTMS\src\Persistence\Sale_Persist.c(72,1): error C2059: 语法错误:“}”
+D:\TTMS\src\Persistence\Sale_Persist.c(77,8): error C2374: “fp”: 重定义；多次初始化
+  D:\TTMS\src\Persistence\Sale_Persist.c(45,8):
+  参见“fp”的声明
+  
+D:\TTMS\src\Persistence\Sale_Persist.c(78,2): error C2059: 语法错误:“if”
+D:\TTMS\src\Persistence\Sale_Persist.c(82,9): error C2061: 语法错误: 标识符“data”
+D:\TTMS\src\Persistence\Sale_Persist.c(82,9): error C2059: 语法错误:“;”
+D:\TTMS\src\Persistence\Sale_Persist.c(85,2): error C2059: 语法错误:“while”
+D:\TTMS\src\Persistence\Sale_Persist.c(97,2): error C2059: 语法错误:“return”
+D:\TTMS\src\Persistence\Sale_Persist.c(98,1): error C2059: 语法错误:“}”
+  Sale.c
+D:\TTMS\src\Service\Sale.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Ticket.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(12,1): error C2059: 语法错误:“<class-head>”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(25,2): error C2061: 语法错误: 标识符“sale_t”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(28,1): error C2059: 语法错误:“}”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,36): error C2059: 语法错误:“)”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,29): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,29): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(4,35): error C2059: 语法错误:“)”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2081: “sale_t”: 形参表中的名称非法
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,51): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(11,57): error C2059: 语法错误:“)”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2146: 语法错误: 缺少“)”(在标识符“list”的前面)
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2061: 语法错误: 标识符“list”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,36): error C2059: 语法错误:“;”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,40): error C2059: 语法错误:“,”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Persistence\Sale_Persist.h(13,51): error C2059: 语法错误:“)”
+  (编译源文件“../src/Service/Sale.c”)
+  
+D:\TTMS\src\Service\Sale.c(5,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\TTMS\src\Service\Sale.c(5,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+D:\TTMS\src\Service\Sale.c(5,36): error C2059: 语法错误:“)”
+D:\TTMS\src\Service\Sale.c(6,1): error C2054: 在“data”之后应输入“(”
+  Sale_UI.c
+D:\TTMS\src\View\Sale_UI.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\TTMS\src\Service\Sale.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Ticket.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(12,1): error C2059: 语法错误:“<class-head>”
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(25,2): error C2061: 语法错误: 标识符“sale_t”
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(28,1): error C2059: 语法错误:“}”
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,30): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\Service\Sale.h(32,36): error C2059: 语法错误:“)”
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\View\Sale_UI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/View/Sale_UI.c”)
+  
+D:\TTMS\src\View\Sale_UI.c(7,9): error C1083: 无法打开包括文件: “../Service/Account.h”: No such file or directory
+  Ticket_UI.c
+D:\TTMS\src\Service\Ticket.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../src/View/Ticket_UI.c”)
+  
+D:\TTMS\src\View\Ticket_UI.c(5,10): error C1083: 无法打开包括文件: “../Service/Account.h”: No such file or directory
+  正在生成代码...

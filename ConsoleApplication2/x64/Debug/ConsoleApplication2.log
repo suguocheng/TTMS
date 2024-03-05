@@ -1,0 +1,14 @@
+﻿  Queries_UI.c
+D:\newttms\TTMS\src\Service\Ticket.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\newttms\TTMS\src\View\Queries_UI.c(39,13): warning C4778: “printf”: 格式字符串“%10\n”未终止
+D:\newttms\TTMS\src\View\Queries_UI.c(44,18): warning C4474: printf: 格式字符串中传递的参数太多
+D:\newttms\TTMS\src\View\Queries_UI.c(44,18): message : 占位符和其参数预计 9 可变参数，但提供的却是 10 参数
+D:\newttms\TTMS\src\View\Queries_UI.c(70,8): warning C4013: “Schedule_UI_Query”未定义；假设外部返回 int
+D:\newttms\TTMS\src\View\Queries_UI.c(97,10): warning C4098: “Schdule_UI_ListAll”:“void”函数返回值
+D:\newttms\TTMS\src\View\Queries_UI.c(13,9): warning C4101: “id”: 未引用的局部变量
+D:\newttms\TTMS\src\View\Queries_UI.c(167,3): warning C4013: “Ticket_UI_Query”未定义；假设外部返回 int
+D:\newttms\TTMS\src\View\Queries_UI.c(112,15): warning C4101: “p”: 未引用的局部变量
+D:\newttms\TTMS\src\View\Queries_UI.c(209,10): warning C4098: “QTicket_UI_Query”:“void”函数返回值
+D:\newttms\TTMS\src\View\Queries_UI.c(175,6): warning C4101: “id”: 未引用的局部变量
+D:\newttms\TTMS\src\View\Queries_UI.c(182,16): warning C4101: “head”: 未引用的局部变量
+  ConsoleApplication2.vcxproj -> D:\newttms\TTMS\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
